@@ -1,0 +1,81 @@
+{
+    "2023-24": {
+        "1025": {
+            "school": {
+                "name": "Akhil Bharatiya Open Schooling",
+                "sub_title": "(An Autonomous Institution, Govt. Recognized)",
+                "exam": "Senior Secondary Examination 2024"
+            },
+            "student": {
+                "name": "Ritik Kushwaha",
+                "father": "Ramesh Kushwaha",
+                "mother": "Sunita Kushwaha",
+                "dob": "15-08-2008",
+                "class": "XII",
+                "session": "2023-24",
+                "type": "REGULAR"
+            },
+            "subjects": [
+                {
+                    "name": "Hindi",
+                    "max": 100,
+                    "theory": 70,
+                    "practical": 0
+                },
+                {
+                    "name": "English",
+                    "max": 100,
+                    "theory": 60,
+                    "practical": 0
+                },
+                {
+                    "name": "Physics",
+                    "max": 100,
+                    "theory": 50,
+                    "practical": 12
+                },
+                {
+                    "name": "Chemistry",
+                    "max": 100,
+                    "theory": 53,
+                    "practical": 12
+                },
+                {
+                    "name": "Biology",
+                    "max": 100,
+                    "theory": 51,
+                    "practical": 15
+                }
+            ]
+        }
+    },
+    "2024-25": {
+        "1010": {
+            "school": {
+                "name": "SAVVY MOTHER INTERNATIONAL SCHOOL",
+                "address": "Rewa, Madhya Pradesh"
+            },
+            "student": {
+                "name": "Ritik Kushwaha",
+                "father": "Mr Rajkumar Kushwaha",
+                "mother": "Mrs Lalita Kushwaha",
+                "class": "10",
+                "dob": "25/01/2012"
+            },
+            "subjects": [
+                {
+                    "name": "ENGLISH",
+                    "theory": 80,
+                    "practical": 20,
+                    "max": 100
+                },
+                {
+                    "name": "MATH",
+                    "theory": 74,
+                    "practical": 25,
+                    "max": 100
+                }
+            ]
+        }
+    }
+}
